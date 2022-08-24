@@ -19,5 +19,5 @@
 #### - From our analysis and visualizations shown in the notebook above, movie durations that are lengthy have higher Returns compared to the other
    #### - I thus recommend that producers factor time in the introductory phase of movie produuction
 
-#### - From our analysis, movies with 'Romance Genres' have lesser popularity. This could be bias from our dataset.
+#### - From our analysis, movies with 'Romance Genres' have lesser popularity. This could be bias from our dataset; further investigation would need to be performed
 
